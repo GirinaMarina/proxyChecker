@@ -1,4 +1,4 @@
-package proxyChecker;
+package proxy.checker;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

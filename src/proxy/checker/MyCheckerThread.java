@@ -1,4 +1,4 @@
-package proxyChecker;
+package proxy.checker;
 
 
 public class MyCheckerThread extends Thread {
